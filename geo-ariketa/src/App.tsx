@@ -1,20 +1,18 @@
-import { LayoutDashboard } from 'lucide-react'
-import './App.css'
-import MainPage from './Components/MainPage'
-import NavBar from './Components/NavBar'
-import SideBar, { SideBarItem } from './Components/SideBar'
+import MainPage from './pages/MainPage'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Page from './pages/Page'
+import Favorites from './pages/Favorites'
 
 function App() {
   return (
-    <div className="w-screen h-screen bg-gray-700 flex">
-      <SideBar>
-        <SideBarItem icon={<LayoutDashboard/>} name="Dashboard" location="/dashboard"/>
-      </SideBar>
-      <div className="w-full h-full">
-        <NavBar/>
-        <MainPage/>
-      </div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Page/>}>
+          <Route index element={<MainPage/>}/>
+          <Route path="favorites" element={<Favorites/>}/>
+        </Route>
+      </Routes>
+    </BrowserRouter>
   )
 }
 
