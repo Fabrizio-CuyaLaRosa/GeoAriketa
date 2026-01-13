@@ -1,17 +1,10 @@
-import axios from "axios";
 import { useEffect, useState } from "react"
 
 export default function MainPage() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("https://backend.wplace.live/me", {
-      method: 'GET',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      credentials: 'include',
-    })
+    fetch("data.json")
     .then(res => {
       return res.json();
     })
@@ -23,11 +16,11 @@ export default function MainPage() {
     });
   }, [])
 
-  // useEffect(() => {
-  //   if (data.length !== 0) {
-  //     console.log(data);
-  //   }
-  // }, [data])
+  useEffect(() => {
+    if (data.length !== 0) {
+      console.log(data);
+    }
+  }, [data])
   return(
     <div className="bg-gray-500 w-full h-1/2">
     </div>
