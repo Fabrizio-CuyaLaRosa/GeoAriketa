@@ -8,12 +8,12 @@ export default function SideBar({children} : {children? : React.ReactNode}) {
   return (
     <openContext.Provider value={open}>
       <div className="bg-stone-400 select-none">
-        <div className="bg-stone-800 h-[50px] flex flex-col justify-center">
-          <div className="mx-2 hover:text-orange-500 cursor-pointer" onClick={() => setOpen(!open)}>
+        <div className="h-12 flex flex-col justify-center">
+          <div className="mx-2 hover:text-gray-600 cursor-pointer text-gray-500" onClick={() => setOpen(!open)}>
             {open ?
-              <div className="flex justify-between">
+              <div className="flex">
                 <PanelRightOpen size={30}/>
-                <p className="my-auto text-lg">SideBar</p>
+                <p className="my-auto text-lg indent-2">SideBar</p>
               </div>
               :
               <PanelRightClose size={30}/>
@@ -41,10 +41,10 @@ export const SideBarItem = ({icon, name, location} : {
   }
 
   return (
-    <div className="m-2 text-orange-600 flex hover:text-orange-500 cursor-pointer" onClick={goTo}>
-      <div>{icon}</div>
+    <div className="mx-2 my-3 text-orange-600 flex hover:text-orange-500 cursor-pointer" onClick={goTo}>
+      <div className="*:size-[30px]">{icon}</div>
       {open &&
-        <div className="indent-2">{name}</div>
+        <div className="indent-2 my-auto">{name}</div>
       }
     </div>
   )

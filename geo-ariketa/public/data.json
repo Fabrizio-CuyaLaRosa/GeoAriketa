@@ -4,13 +4,13 @@
     "allianceRole": "admin",
     "charges": {
       "cooldownMs": 30000,
-      "count": 2925,
-      "max": 3128
+      "count": 1217,
+      "max": 3154
     },
     "country": "ES",
     "discord": "asurakuro",
     "discordId": "365247215800942617",
-    "droplets": 721755,
+    "droplets": 744959,
     "equippedFlag": 209,
     "equippedFrameId": 1,
     "equippedFrameUrl": "/img/frames/2025_christmas_border.png",
@@ -23,17 +23,24 @@
       }
     },
     "extraColorsBitmap": -26629,
-    "favoriteLocations": [],
+    "favoriteLocations": [
+      {
+        "id": 11020216,
+        "name": "",
+        "latitude": 44.0273919516433,
+        "longitude": -2.81241244072268
+      }
+    ],
     "flagsBitmap": "AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC",
     "freeFlag": true,
     "id": 7350701,
     "isCustomer": false,
-    "level": 484.278188164659,
+    "level": 497.16606065826,
     "maxFavoriteLocations": 15,
     "name": "Asura",
     "needsPhoneVerification": false,
     "picture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA70lEQVR42pyRMUoEQRBF387OBqKJYzCpDYJUJo5nEEQQxGT1ApuZeA4P4AUEI0NNvYCYFYJQm3YgJjKZIL0NQ4ED0vuDbqr69/9dv+u+7ylBDcQYc9G27SjJEyZm5s/+3hnYGRWFmOQZvIw3UVWgaZqhX+xQxxjbFQY97+C180PKHXzRdR3gcwshAP6vylPK2+P9HfDzdgtcXD8Dr/EruT1cAtODG+D8arFWSmYWQjg+m6cQpi+pt7EJHO6mdbs7SimdzlfkhZmVz2Bmqnqyt5+qna1x1uc38PTxLiKVqorIcvaP1XJWiYiq/gYAAP//EspP8zb4abMAAAAASUVORK5CYII=",
-    "pixelsPainted": 404255,
+    "pixelsPainted": 420959,
     "role": "user",
     "showLastPixel": true,
     "timeoutUntil": "1970-01-01T00:00:00Z"
@@ -47,7 +54,7 @@
       "max":3689
     },
     "country":"CR",
-    "discord":"",
+    "discord":"jean._.",
     "discordId":"898815674636435476",
     "droplets":411119,
     "equippedFlag":52,
