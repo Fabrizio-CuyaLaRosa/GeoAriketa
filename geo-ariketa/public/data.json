@@ -1,0 +1,130 @@
+[
+  {
+    "allianceId": 664976,
+    "allianceRole": "admin",
+    "charges": {
+      "cooldownMs": 30000,
+      "count": 1217,
+      "max": 3154
+    },
+    "country": "ES",
+    "discord": "asurakuro",
+    "discordId": "365247215800942617",
+    "droplets": 744959,
+    "equippedFlag": 209,
+    "equippedFrameId": 1,
+    "equippedFrameUrl": "/img/frames/2025_christmas_border.png",
+    "experiments": {
+      "2025-09_discord_linking": {
+        "enabled": true
+      },
+      "2025-09_pawtect": {
+        "variant": "koala"
+      }
+    },
+    "extraColorsBitmap": -26629,
+    "favoriteLocations": [
+      {
+        "id": 11020216,
+        "name": "",
+        "latitude": 44.0273919516433,
+        "longitude": -2.81241244072268
+      },
+      {
+        "id": 11038596,
+        "name": "",
+        "latitude": 53.0826753502877,
+        "longitude": 5.08807584052733
+      },
+      {
+        "id": 11038587,
+        "name": "",
+        "latitude": 10.4080341768347,
+        "longitude": -85.4069241594727
+      },
+      {
+        "id": 11038604,
+        "name": "",
+        "latitude": 61.6413585887207,
+        "longitude": 24.2832125592773
+      },
+      {
+        "id": 11038619,
+        "name": "",
+        "latitude": -7.76960277927446,
+        "longitude": -34.2561624407227
+      }
+    ],
+    "flagsBitmap": "AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC",
+    "freeFlag": true,
+    "id": 7350701,
+    "isCustomer": false,
+    "level": 497.16606065826,
+    "maxFavoriteLocations": 15,
+    "name": "Asura",
+    "needsPhoneVerification": false,
+    "picture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA70lEQVR42pyRMUoEQRBF387OBqKJYzCpDYJUJo5nEEQQxGT1ApuZeA4P4AUEI0NNvYCYFYJQm3YgJjKZIL0NQ4ED0vuDbqr69/9dv+u+7ylBDcQYc9G27SjJEyZm5s/+3hnYGRWFmOQZvIw3UVWgaZqhX+xQxxjbFQY97+C180PKHXzRdR3gcwshAP6vylPK2+P9HfDzdgtcXD8Dr/EruT1cAtODG+D8arFWSmYWQjg+m6cQpi+pt7EJHO6mdbs7SimdzlfkhZmVz2Bmqnqyt5+qna1x1uc38PTxLiKVqorIcvaP1XJWiYiq/gYAAP//EspP8zb4abMAAAAASUVORK5CYII=",
+    "pixelsPainted": 420959,
+    "role": "user",
+    "showLastPixel": true,
+    "timeoutUntil": "1970-01-01T00:00:00Z"
+  },
+  {
+    "allianceId":664976,
+    "allianceRole":"member",
+    "charges": {
+      "cooldownMs":30000,
+      "count":3689,
+      "max":3689
+    },
+    "country":"CR",
+    "discord":"jean._.",
+    "discordId":"898815674636435476",
+    "droplets":411119,
+    "equippedFlag":52,
+    "equippedFrameId":1,
+    "equippedFrameUrl":"/img/frames/2025_christmas_border.png",
+    "experiments": {
+      "2025-09_discord_linking": {
+        "enabled":true
+      },
+      "2025-09_pawtect": {
+        "variant":"koala"
+      }
+    },
+    "extraColorsBitmap":-1,
+    "favoriteLocations":[
+      {
+        "id": 11038617,
+        "name": "",
+        "latitude": -34.0940832745476,
+        "longitude": 151.432118809277
+      },
+      {
+        "id": 11038634,
+        "name": "",
+        "latitude": 57.8801437481834,
+        "longitude": 23.0230367780273
+      },
+      {
+        "id": 11038638,
+        "name": "",
+        "latitude": 10.1653773408748,
+        "longitude": 8.24739224677732
+      }
+    ],
+    "flagsBitmap":"AgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA",
+    "freeFlag":true,
+    "id":5032550,
+    "isCustomer":true,
+    "level":462.9363657569937,
+    "maxFavoriteLocations":15,
+    "name":"Jean",
+    "needsPhoneVerification":false,
+    "picture":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABZ0lEQVR42mxTMUszQRCdO/LxVdrYWJhLI8YUEUkdsFCsTamd/gnPLp2gtW2sAmKjqL0Il1LBSxFj5SW1RaooIitv72aZvd2BZWbfvjdzuzNXUUopKiwIAu0FZJn3vEig1/peT8l9ecHA4RgWFEIa3RyaKrVqRNVaZFWfZhPKphNTvdG5pLfbI8IVtKjRIQ34xDDGwEVBcKENmTB/7lpEVJTV5RlzYWG5AgvGF/vay3j++8/hVnyvDcFmr04fV6f5fc+/NbZzNnC4oS/B/6UNWt7eNXvEwHzmTXByP6TH1pPZIwY2ut5yydz3drtt9TxNU91zLMTA+ouR+lxZNVweQlWrRgbUwzTo51MCL2IkwGINfFh+VQzUcKGpBwVexgezjJrJg9MJkw2Gz43jWHs2xuQVWWOSlN+AhZxI3Nl9Ayk25OL+X3fH6rXbsc6kRg9SkiTOL/wzy/fjl3eqt9Zk16xf+y8AAP//GKk7z93sWWAAAAAASUVORK5CYII=",
+    "pixelsPainted":377119,
+    "role":"user",
+    "showLastPixel":true,
+    "timeoutUntil":"1970-01-01T00:00:00Z"
+  }
+]
