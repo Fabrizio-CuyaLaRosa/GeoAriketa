@@ -29,6 +29,30 @@
         "name": "",
         "latitude": 44.0273919516433,
         "longitude": -2.81241244072268
+      },
+      {
+        "id": 11038596,
+        "name": "",
+        "latitude": 53.0826753502877,
+        "longitude": 5.08807584052733
+      },
+      {
+        "id": 11038587,
+        "name": "",
+        "latitude": 10.4080341768347,
+        "longitude": -85.4069241594727
+      },
+      {
+        "id": 11038604,
+        "name": "",
+        "latitude": 61.6413585887207,
+        "longitude": 24.2832125592773
+      },
+      {
+        "id": 11038619,
+        "name": "",
+        "latitude": -7.76960277927446,
+        "longitude": -34.2561624407227
       }
     ],
     "flagsBitmap": "AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC",
@@ -69,7 +93,26 @@
       }
     },
     "extraColorsBitmap":-1,
-    "favoriteLocations":[],
+    "favoriteLocations":[
+      {
+        "id": 11038617,
+        "name": "",
+        "latitude": -34.0940832745476,
+        "longitude": 151.432118809277
+      },
+      {
+        "id": 11038634,
+        "name": "",
+        "latitude": 57.8801437481834,
+        "longitude": 23.0230367780273
+      },
+      {
+        "id": 11038638,
+        "name": "",
+        "latitude": 10.1653773408748,
+        "longitude": 8.24739224677732
+      }
+    ],
     "flagsBitmap":"AgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA",
     "freeFlag":true,
     "id":5032550,
