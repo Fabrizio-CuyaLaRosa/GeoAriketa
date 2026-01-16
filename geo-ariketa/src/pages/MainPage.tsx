@@ -73,8 +73,9 @@ export default function MainPage() {
       <div
         onClick={goToFavorites}
         className="p-4 border border-black bg-white overflow-hidden row-start-3 col-span-4 row-span-2 flex flex-col cursor-pointer hover:bg-slate-100">
-        <div className="mb-4">
+        <div className="mb-4 flex justify-between">
           <p className="text-xl font-bold">Favorite Locations</p>
+          <p className="my-auto">Remaining favorite locations: {dataContext.currentUser.maxFavoriteLocations - dataContext.currentUser.favoriteLocations.length}</p>
         </div>
         <div className="border h-full grid grid-cols-5 grid-rows-3 p-5 gap-2">
           {dataContext.currentUser.favoriteLocations.length > 0 ?
